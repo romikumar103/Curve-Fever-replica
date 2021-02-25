@@ -1,0 +1,4 @@
+#Thu Feb 25 13:01:47 IST 2021
+base.0=C\:\\Unity Project\\Carrom proj\\Curve Fever replica\\Temp\\gradleOut\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
